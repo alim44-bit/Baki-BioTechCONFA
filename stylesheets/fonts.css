@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Rubik-BoldItalic';
+  src: url('../fonts/Rubik-BoldItalic.ttf');
+  font-style: italic bold;
+}
+
+@font-face {
+  font-family: 'Rubik-Italic';
+  src: url('../fonts/Rubik-Italic.ttf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Rubik-Regular';
+  src: url('../fonts/Rubik.ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter-Regular';
+  src: url('../fonts/Inter-Regular.otf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sarina-Regular';
+  src: url('../fonts/Sarina-Regular.ttf');
+  font-style: normal;
+}

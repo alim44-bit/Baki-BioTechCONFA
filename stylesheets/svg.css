@@ -1,0 +1,37 @@
+/* Define sizes for the SVG containers */
+.Baki {
+  width: 330px;
+  height: 150px;
+}
+
+.Biotech {
+  width: 550px;
+  height: 180px;
+}
+
+/* General styles for stroke text */
+.baki-stroke,
+.biotech-stroke {
+  font-family: 'Rubic-Regular', Arial, sans-serif;
+  font-size: 80px;
+  stroke-width: 40;
+  stroke-linejoin: round;
+  fill: #acd540;
+  stroke: #acd540;
+}
+
+/* General styles for fill text */
+.baki-fill,
+.biotech-fill {
+  font-family: 'Rubic-Regular', Arial, sans-serif;
+  font-size: 80px;
+  fill: #000000;
+}
+
+/* Additional styles specific to BioTech text */
+.biotech-stroke,
+.biotech-fill {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 120px;
+}
