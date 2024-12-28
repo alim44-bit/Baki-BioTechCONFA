@@ -317,6 +317,7 @@ html {
     .group {
       position: absolute;
       top: 350vh;
-      left: 30vw;
+      left: 20vw;
       z-index: 3;
+      animation: le2 5s infinite linear;
     }

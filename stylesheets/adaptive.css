@@ -1,0 +1,161 @@
+@media screen and (max-width: 1920px) {
+    .block1, .block2, .block5, .block6 {
+      width: 100vw;
+      height: 100vh;
+    }
+  
+    .header {
+      font-size: 20vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 50%;
+    }
+  
+    .dar, .badam {
+      font-size: 3vw;
+    }
+  }
+  
+  /* 1440x900 (MacBook Pro ’15) */
+  @media screen and (max-width: 1440px) {
+    .header {
+      font-size: 18vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 55%;
+    }
+  
+    .dar, .badam {
+      font-size: 3.5vw;
+    }
+  
+    .people, .flask, .group {
+      top: 340vh;
+      left: 12vw;
+    }
+  }
+  
+  /* 1280x900 WXGA+ */
+  @media screen and (max-width: 1280px) {
+    .header {
+      font-size: 16vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 60%;
+    }
+  
+    .dar, .badam {
+      font-size: 4vw;
+    }
+  
+    .people, .flask, .group {
+      top: 330vh;
+      left: 10vw;
+    }
+  }
+  
+  /* 1366x768 WXGA */
+  @media screen and (max-width: 1366px) {
+    .header {
+      font-size: 15vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 65%;
+    }
+  
+    .dar, .badam {
+      font-size: 4.5vw;
+    }
+  
+    .people, .flask, .group {
+      top: 325vh;
+      left: 8vw;
+    }
+  }
+  
+  /* 1024x768 XGA */
+  @media screen and (max-width: 1024px) {
+    .header {
+      font-size: 13vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 70%;
+    }
+  
+    .dar, .badam {
+      font-size: 5vw;
+    }
+  
+    .people, .flask, .group {
+      top: 320vh;
+      left: 5vw;
+    }
+  }
+  
+  /* Tablet (768x1024) */
+  @media screen and (max-width: 768px) {
+    .header {
+      font-size: 10vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 80%;
+      top: 5vw;
+    }
+  
+    .dar, .badam {
+      font-size: 6vw;
+    }
+  
+    .people, .flask, .group {
+      top: 310vh;
+      left: 3vw;
+    }
+  }
+  
+  /* Mobile (414x896) */
+  @media screen and (max-width: 414px) {
+    .header {
+      font-size: 8vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 90%;
+      top: 10vw;
+    }
+  
+    .dar, .badam {
+      font-size: 7vw;
+    }
+  
+    .people, .flask, .group {
+      top: 300vh;
+      left: 2vw;
+    }
+  }
+  
+  /* Mobile (360x640) */
+  @media screen and (max-width: 360px) {
+    .header {
+      font-size: 7vw;
+    }
+  
+    .img_leaves1, .img_leaves2 {
+      width: 95%;
+      top: 15vw;
+    }
+  
+    .dar, .badam {
+      font-size: 8vw;
+    }
+  
+    .people, .flask, .group {
+      top: 290vh;
+      left: 1vw;
+    }
+  }
